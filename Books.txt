@@ -1,0 +1,4 @@
+TITLE FIRSTNAME LASTNAME BOOKSTAND SHELF
+Pinokio Carlo Collodi B 4
+Proszę_mnie_przytulić Przemysław Wechterowicz K 2
+W_pustyni_i_w_puszczy Henryk Sienkiewicz L 4
